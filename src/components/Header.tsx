@@ -16,7 +16,7 @@ const Header = () => {
       
       <div className="container mx-auto py-3 px-4 flex justify-between items-center">
         <div className="flex items-center">
-          <Link to="/" className="text-photolab-orange font-bold text-2xl mr-6">photolab!</Link>
+          <Link to="/" className="text-photolab-orange font-bold text-2xl mr-6">Phooto</Link>
           <div className="relative">
             <input
               type="text"
